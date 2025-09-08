@@ -1,4 +1,4 @@
-![Screenshot](https://private-user-images.githubusercontent.com/147649626/486709846-ae55420c-b76d-4382-9245-bd021626d960.png)
+![Screenshot](https://github.com/user-attachments/assets/ae55420c-b76d-4382-9245-bd021626d960)
 
 # Tutorial Instalasi Web PHP Native
 
