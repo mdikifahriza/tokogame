@@ -78,7 +78,7 @@ if (!$koneksi) {
 Gunakan akun berikut untuk masuk ke sistem:
 
 * **Admin**
-  Email: `admin@tokogame.com`
+  Email: `admin`
   Password: `admin`
 
 ---
