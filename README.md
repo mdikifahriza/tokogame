@@ -1,4 +1,4 @@
-![Screenshot]([https://user-images.githubusercontent.com/123456/abcdef.png](https://github.com/mdikifahriza/tokogame/issues/1#issue-3393455348))
+![Screenshot]((https://github.com/mdikifahriza/tokogame/issues/1#issue-3393455348)
 
 # Tutorial Instalasi Web PHP Native
 
